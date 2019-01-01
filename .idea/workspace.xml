@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b31da9b-19a3-4d89-bb5f-d71443860b80" name="Default Changelist" comment="123">
+      <change afterPath="$PROJECT_DIR$/.idea/PytonProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-187202f6fec859c5fc3c0fb265c1ff127bc59fa7.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-187202f6fec859c5fc3c0fb265c1ff127bc59fa7.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-24f4da71b95ab76dc2e7cbb5975ee6661b2c6041.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-24f4da71b95ab76dc2e7cbb5975ee6661b2c6041.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-aa74967318ea19bf0b7d256e94fc0d15d2839523.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-aa74967318ea19bf0b7d256e94fc0d15d2839523.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/refs/heads/master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/02_Codesignal/043_isBeautifulString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/02_Codesignal/044_findEmailDomain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/02_Codesignal/045_buildPalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/02_Codesignal/046_Election_Winners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/001_zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/002_mass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/003_constructSubmatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.2_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.2_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/02_Codesignal/042_bishopAndPawn.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/02_Codesignal/042_bishopAndPawn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/03_old/codesignal_score.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PytonProjects$2_6_3.coverage" NAME="2.6_3 Coverage Results" MODIFIED="1546010846039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$2_6_0.coverage" NAME="2.6_0 Coverage Results" MODIFIED="1546011879945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_7_4.coverage" NAME="3.7_4 Coverage Results" MODIFIED="1546016013099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$003_constructSubmatrix.coverage" NAME="003_constructSubmatrix Coverage Results" MODIFIED="1546120293273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_3_2.coverage" NAME="1.3_2 Coverage Results" MODIFIED="1546211371259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_5_2.coverage" NAME="3.5_2 Coverage Results" MODIFIED="1546015350992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$043_isBeautifulString.coverage" NAME="043_isBeautifulString Coverage Results" MODIFIED="1546114966759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$013_reverseParentheses.coverage" NAME="013_reverseParentheses Coverage Results" MODIFIED="1546028243331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_12_5.coverage" NAME="1.12_5 Coverage Results" MODIFIED="1546009204603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_4_1.coverage" NAME="3.4_1 Coverage Results" MODIFIED="1546012245697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$041_digitDegree.coverage" NAME="041_digitDegree Coverage Results" MODIFIED="1546038991730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_3__1.coverage" NAME="1.3._1 Coverage Results" MODIFIED="1546200910769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_2_01.coverage" NAME="1.2_01 Coverage Results" MODIFIED="1546007816478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_3_03.coverage" NAME="1.3_03 Coverage Results" MODIFIED="1546207059199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_3_0.coverage" NAME="1.3_0 Coverage Results" MODIFIED="1546201545934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_4_2.coverage" NAME="3.4_2 Coverage Results" MODIFIED="1546015138982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$039_longestDigitsPrefix.coverage" NAME="039_longestDigitsPrefix Coverage Results" MODIFIED="1545950756722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_7_1.coverage" NAME="3.7_1 Coverage Results" MODIFIED="1546015708908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$039_knapsackLight.coverage" NAME="039_knapsackLight Coverage Results" MODIFIED="1545946499556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PythonProjects$001_zigzag.coverage" NAME="001_zigzag Coverage Results" MODIFIED="1546119418092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score" />
+    <SUITE FILE_PATH="coverage/PytonProjects$041_digitDegree.coverage" NAME="041_digitDegree Coverage Results" MODIFIED="1546026642034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$040_longestDigitsPrefix.coverage" NAME="040_longestDigitsPrefix Coverage Results" MODIFIED="1546026930492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$042_bishopAndPawn.coverage" NAME="042_bishopAndPawn Coverage Results" MODIFIED="1546033193074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$038_grovingPlant.coverage" NAME="038_grovingPlant Coverage Results" MODIFIED="1545945122264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_9_1.coverage" NAME="1.9_1 Coverage Results" MODIFIED="1546008944604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_8_3.coverage" NAME="1.8_3 Coverage Results" MODIFIED="1546008858860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$042_bishopAndPawn.coverage" NAME="042_bishopAndPawn Coverage Results" MODIFIED="1546038997478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_7_2.coverage" NAME="3.7_2 Coverage Results" MODIFIED="1546015840561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$007_almostIncreasingSequence.coverage" NAME="007_almostIncreasingSequence Coverage Results" MODIFIED="1546028830042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_12_6.coverage" NAME="1.12_6 Coverage Results" MODIFIED="1546009227272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$2_6_4.coverage" NAME="2.6_4 Coverage Results" MODIFIED="1546010898664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$045_buildPalindrome.coverage" NAME="045_buildPalindrome Coverage Results" MODIFIED="1546119007608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_4_1.coverage" NAME="1.4_1 Coverage Results" MODIFIED="1546262710122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_6_1.coverage" NAME="3.6_1 Coverage Results" MODIFIED="1546015538338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$044_findEmailDomain.coverage" NAME="044_findEmailDomain Coverage Results" MODIFIED="1546119193023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02_Codesignal" />
+    <SUITE FILE_PATH="coverage/PythonProjects$002_mass.coverage" NAME="002_mass Coverage Results" MODIFIED="1546119467172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_9_2.coverage" NAME="1.9_2 Coverage Results" MODIFIED="1546008912516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_7_3.coverage" NAME="3.7_3 Coverage Results" MODIFIED="1546015930438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$1_12_4.coverage" NAME="1.12_4 Coverage Results" MODIFIED="1546009176876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_6_2.coverage" NAME="3.6_2 Coverage Results" MODIFIED="1546015662523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_2_2.coverage" NAME="3.2_2 Coverage Results" MODIFIED="1546011497175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$2_5_1.coverage" NAME="2.5_1 Coverage Results" MODIFIED="1546010602240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_3_01.coverage" NAME="1.3.01 Coverage Results" MODIFIED="1546202620429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_7_5.coverage" NAME="3.7_5 Coverage Results" MODIFIED="1546024008423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$2_6_2.coverage" NAME="2.6_2 Coverage Results" MODIFIED="1546010789665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_4_3.coverage" NAME="3.4_3 Coverage Results" MODIFIED="1546015102984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+    <SUITE FILE_PATH="coverage/PytonProjects$3_5_1.coverage" NAME="3.5_1 Coverage Results" MODIFIED="1546015184565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/046_Election_Winners.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>u</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vestenar &lt;vestenar@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e1b9cf95-26e6-4c1e-8925-f3ecc1796ab8" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Vestenar" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="PytonProjects" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/032_absoluteValuesSumMinimization.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/031_depositProfit.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/031_circleOfNumbers.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/029_chessBoardCellColor.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/028_alphabeticShift.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/027_variableName.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/026_evenDigitsOnly.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/025_arrayReplace.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/024_minesweeper.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/023_boxBlur.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/022_avoidObstacles.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/021_isIPv4Address.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/020_arrayMaximalAdjacentDifference.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/019_4areEquallyStrong.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/019_areEquallyStrong.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/018_palindromeRearranging.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/017_arrayChange.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/016_areSimilar.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/015_addBorder.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/014_alternatingSums.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/013_reverseParentheses.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/012_sortByHeight.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/011_isLucky.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/010_commonCharacterCount.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/009_allLongestStrings.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/008_matrixElementsSum.py" />
+        <option value="$PROJECT_DIR$/venv/03_old/asssert_example.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/007_almostIncreasingSequence.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/006_makeArrayConsecutive2.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/005_shapeArea.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/004_adjacentElementsProduct.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/003_checkPalindrome.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/002_centuryFromYear.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/001_add.py" />
+        <option value="$PROJECT_DIR$/venv/03_old/list.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/042_bishopAndPawn.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/043_isBeautifulString.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/044_findEmailDomain.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/045_buildPalindrome.py" />
+        <option value="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/001_zigzag.py" />
+        <option value="$PROJECT_DIR$/venv/03_old/codesignal_score.py" />
+        <option value="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/002_mass.py" />
+        <option value="$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/003_constructSubmatrix.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1,3_0.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3._1.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_0.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3.01.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_03.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_2.py" />
+        <option value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.4_1.py" />
+        <option value="$PROJECT_DIR$/venv/02_Codesignal/046_Election_Winners.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PytonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PytonProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PytonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PytonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PythonProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="02_Codesignal" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\venv" />
+      <recent name="E:\PytonProjects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.1.4_1">
+    <configuration name="1.3_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PytonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.3.01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PytonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3.01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.3_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PytonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PytonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PytonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.4_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1.4_1" />
+        <item itemvalue="Python.1.3_2" />
+        <item itemvalue="Python.1.3_03" />
+        <item itemvalue="Python.1.3.01" />
+        <item itemvalue="Python.1.3_0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b31da9b-19a3-4d89-bb5f-d71443860b80" name="Default Changelist" comment="" />
+      <created>1545943866607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545943866607</updated>
+      <workItem from="1545943879771" duration="7302000" />
+      <workItem from="1546007035360" duration="12701000" />
+      <workItem from="1546031393384" duration="4145000" />
+      <workItem from="1546038908296" duration="137000" />
+      <workItem from="1546039062602" duration="129000" />
+      <workItem from="1546112727748" duration="3137000" />
+      <workItem from="1546117162338" duration="6119000" />
+      <workItem from="1546189028154" duration="10690000" />
+      <workItem from="1546260009565" duration="2747000" />
+      <workItem from="1546369807224" duration="655000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1546038535234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546038535234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47762000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731544" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.39943343" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49798658" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/02_Codesignal/039_knapsackLight.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/02_Codesignal/041_digitDegree.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/02_Codesignal/045_buildPalindrome.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/003_constructSubmatrix.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/003_constructSubmatrix.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_2.py</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/017_arrayChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/016_areSimilar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/015_addBorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/014_alternatingSums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/013_reverseParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/012_sortByHeight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/011_isLucky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/010_commonCharacterCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/009_allLongestStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/008_matrixElementsSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/03_old/asssert_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/007_almostIncreasingSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/006_makeArrayConsecutive2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/005_shapeArea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/004_adjacentElementsProduct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/030_circleOfNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/029_chessBoardCellColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie/3.4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie/3.2_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie/3.2_3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Programmirovanie/3.5_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/03_old/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/03_old/list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/002_centuryFromYear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/041_digitDegree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/001_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HEAD">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/028_alphabeticShift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="1" selection-start-column="4" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/003_checkPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/042_bishopAndPawn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/043_isBeautifulString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/044_findEmailDomain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/045_buildPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/03_old/codesignal_score.py" />
+    <entry file="file://$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/001_zigzag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/002_mass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1,3_0.py" />
+    <entry file="file://$PROJECT_DIR$/venv/03_Codsignal_Coding_Score/003_constructSubmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3._1.py" />
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_0.py" />
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3.01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_03.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="832" selection-start-line="832" selection-end-line="832" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3.03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.3_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/01_Stepik/Python_Osnovi_i_primenenie/1.4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/02_Codesignal/046_Election_Winners.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
