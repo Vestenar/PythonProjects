@@ -13,6 +13,7 @@ def messageFromBinaryCode(code):
 #     n = int(code, 2)
 #     return n.to_bytes((n.bit_length() + 7) // 8, 'big').decode()
 
+
 task = "010010000110010101101100011011000110111100100001"
 print(messageFromBinaryCode(task))
 
@@ -27,4 +28,5 @@ For code = "010010000110010101101100011011000110111100100001", the output should
 messageFromBinaryCode(code) = "Hello!".
 
 The first 8 characters of the code are 01001000, which is 72 in the binary numeral system. 72 stands for H in the ASCII-table, so the first letter is H.
-Other letters can be obtained in the same manner.'''
+Other letters can be obtained in the same manner.
+'''
