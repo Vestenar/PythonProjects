@@ -6,7 +6,7 @@ def soch(n, k):
     else:
         return soch(n-1, k) + soch(n-1, k-1)
 
- n, k = map(int, input().split())
+n, k = map(int, input().split())
 print(soch(n, k))
 
 '''

@@ -3,13 +3,16 @@ prnt = 'parent_ns'
 vs = 'vars'
 namespaces = {'global': {prnt: '', vs: []}}
 
+
 def create(ns, parent):
     if ns not in namespaces:
         namespaces[ns] = {prnt: parent, vs: []}
 
+
 def add(ns, var):
     if ns in namespaces:
         namespaces[ns][vs].append(var)
+
 
 def get(ns, var):
     if ns == 'global':
@@ -19,6 +22,7 @@ def get(ns, var):
     else:
         get(namespaces[ns][prnt], var)
 
+
 funcs = {'create': create, 'add': add, 'get': get}
 n = int(input())
 for _ in range(n):
@@ -26,4 +30,3 @@ for _ in range(n):
     funcs[cmd](p1, p2)
 
 print(namespaces)
-
