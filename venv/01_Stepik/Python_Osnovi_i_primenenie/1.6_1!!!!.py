@@ -48,7 +48,6 @@ for i in range(int(input())):
         print("Yes")
     else:
         print("No")
-
     # depth(r[0], r[1])  # с этой функцией работает
     # if r[0] in parents or r[0] == r[1]:
     #     print("Yes")
