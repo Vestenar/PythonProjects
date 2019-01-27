@@ -1,5 +1,5 @@
 def allLongestStrings(inputArray):
-    lenw = 0
+
     out = []
 
     for i in range(len(inputArray)):
