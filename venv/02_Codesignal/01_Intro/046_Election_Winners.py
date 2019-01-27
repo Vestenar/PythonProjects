@@ -8,12 +8,9 @@ def electionsWinners(votes, k):
                 n += 1
             else:
                 break
-
-
     else:
         if votes.count(max(votes)) == 1:
             n = 1
-
     return n
 
 
