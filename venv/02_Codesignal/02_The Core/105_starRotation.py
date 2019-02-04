@@ -2,10 +2,8 @@ def starRotation(matrix, width, center, t):
     subm = []
     for i in range(width):
         subm.append(matrix[center[0]-width//2+i][center[1]-width//2:center[1]+width//2+1])
-    star = [subm[width//2]]
-    star.append([subm[i][i] for i in range(width)])
-    star.append([subm[i][width//2] for i in range(width)])
-    star.append([subm[i][width-i-1] for i in range(width)])
+    star = [subm[width // 2], [subm[i][i] for i in range(width)], [subm[i][width // 2] for i in range(width)],
+            [subm[i][width - i - 1] for i in range(width)]]
     for i in range(t % 8):
         star.insert(0, star.pop()[::-1])
     subm[width//2] = star[0]
@@ -17,10 +15,7 @@ def starRotation(matrix, width, center, t):
         print(i)
     for i in range(width):
         matrix[center[0]-width//2+i][center[1]-width//2:center[1]+width//2+1] = subm[i][:]
-    print("matrix")
-    for i in matrix:
-        print(i)
-    return
+    return matrix
 
 def starRotation2(m, w, c, t):  #  решение перестановками
     for i in range(1,int((w+1)/2)):
