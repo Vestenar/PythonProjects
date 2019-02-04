@@ -17,7 +17,8 @@ def starRotation(matrix, width, center, t):
         matrix[center[0]-width//2+i][center[1]-width//2:center[1]+width//2+1] = subm[i][:]
     return matrix
 
-def starRotation2(m, w, c, t):  #  решение перестановками
+
+def starRotation2(m, w, c, t):  # решение перестановками
     for i in range(1,int((w+1)/2)):
         for _ in range(t%8):
             p = m[c[0]-i][c[1]-i]
@@ -32,7 +33,7 @@ def starRotation2(m, w, c, t):  #  решение перестановками
     return m
 
 
-def starRotation3(matrix, width, center, t):  #  векторное решение
+def starRotation3(matrix, width, center, t):  # векторное решение
     [r, c] = center
     offset = [(-1, -1), (-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1), (0, -1)]
     print(offset)
