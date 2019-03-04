@@ -19,4 +19,3 @@ def count(l):
 print(count(8))
 print("--- %s seconds ---" % (time.time() - start_time))
 a = input()
-# 31745-PGRYW-24MLG-0PWZN-NSH4D-IQ1B0
