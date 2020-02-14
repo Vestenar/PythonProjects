@@ -1,0 +1,105 @@
+<Instance of Sub, address 140638568194904:
+	name data1 = one
+	name data2 = two
+	name data3 = three
+>
+__________________________________________________ 
+
+
+<instance of Sub2, address 140638568194960:
+	name _ListInherited__attrnames = <bound method ListInherited.__attrnames of <__main__.Sub2 object at 0x7fe8f7e62390>>
+	name __class__ = <>
+	name __delattr__ = <>
+	name __dict__ = <>
+	name __dir__ = <>
+	name __doc__ = <>
+	name __eq__ = <>
+	name __format__ = <>
+	name __ge__ = <>
+	name __getattribute__ = <>
+	name __gt__ = <>
+	name __hash__ = <>
+	name __init__ = <>
+	name __init_subclass__ = <>
+	name __le__ = <>
+	name __lt__ = <>
+	name __module__ = <>
+	name __ne__ = <>
+	name __new__ = <>
+	name __reduce__ = <>
+	name __reduce_ex__ = <>
+	name __repr__ = <>
+	name __setattr__ = <>
+	name __sizeof__ = <>
+	name __str__ = <>
+	name __subclasshook__ = <>
+	name __weakref__ = <>
+	name data1 = one
+	name data2 = two
+	name data3 = three
+	name ham = <bound method Super.ham of <__main__.Sub2 object at 0x7fe8f7e62390>>
+	name spam = <bound method Sub2.spam of <__main__.Sub2 object at 0x7fe8f7e62390>>
+>
+__________________________________________________ 
+
+
+<Instance of Sub3, address 140638568196136:
+    data1 = one
+    data2 = two
+    data3 = three
+    visited = {}
+
+....<Class Sub3:, address 94725357740392:
+        __doc__ = <>
+        __init__ = <>
+        __module__ = <>
+        spam = <function Sub3.spam at 0x7fe8f7e58510>
+
+........<Class Super:, address 94725357737560:
+            __dict__ = <>
+            __doc__ = <>
+            __init__ = <>
+            __module__ = <>
+            __weakref__ = <>
+            ham = <function Super.ham at 0x7fe8f7e581e0>
+
+............<Class object:, address 140638577537056:
+                __class__ = <>
+                __delattr__ = <>
+                __dir__ = <>
+                __doc__ = <>
+                __eq__ = <>
+                __format__ = <>
+                __ge__ = <>
+                __getattribute__ = <>
+                __gt__ = <>
+                __hash__ = <>
+                __init__ = <>
+                __init_subclass__ = <>
+                __le__ = <>
+                __lt__ = <>
+                __ne__ = <>
+                __new__ = <>
+                __reduce__ = <>
+                __reduce_ex__ = <>
+                __repr__ = <>
+                __setattr__ = <>
+                __sizeof__ = <>
+                __str__ = <>
+                __subclasshook__ = <>
+............>
+........>
+.
+........<Class ListTree:, address 94725357734136:
+            _ListTree__attrnames = <function ListTree.__attrnames at 0x7fe8f7e58158>
+            _ListTree__listclass = <function ListTree.__listclass at 0x7fe8f7e580d0>
+            __dict__ = <>
+            __doc__ = <>
+            __module__ = <>
+            __str__ = <>
+            __weakref__ = <>
+
+............<Class object:, address 140638577537056: (see above)>
+........>
+....>
+>

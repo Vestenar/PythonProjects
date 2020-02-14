@@ -1,0 +1,8 @@
+login generator generators.logins password generator generators.popular login='admin' password='12345'login generator "generators.logins" password generator "generators.popular" login='admin' password='12345'login generator "generators.logins" password generator "generators.popular" login='admin' password='12345'
+login generator "generators.logins" password generator "generators.popular" login='admin' password='12345'
+login generator "generators.logins" password generator "generators.popular" login='admin' password='12345'
+login generator "generators.logins" password generator "generators.brute_force" login='cat' password='og'
+login generator "generators.logins" password generator "generators.brute_force" requester "<module 'requesters.myserver' from '/Users/nlevashov/teaching/skillbox/webinar/python-hack/code/hacker/requesters/myserver.py'>" login='cat' password='og'
+login generator "generators.logins" password generator "generators.brute_force" requester "requesters.myserver" login='cat' password='og'
+login generator "generators.logins" password generator "generators.brute_force" requester "requesters.myserver" admin 01
+login generator "generators.logins" password generator "generators.brute_force" requester "requesters.myserver" cat do

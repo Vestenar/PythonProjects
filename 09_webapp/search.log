@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'requestefk;lsdk;wpo'), ('letters', 'aieou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0 | {'u', 'e', 'o'}
+ImmutableMultiDict([('phrase', 'reque'), ('letters', 'aieou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0 | {'u', 'e'}
+ImmutableMultiDict([('phrase', 'requedafafsaf'), ('letters', 'aieou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0 | {'a', 'e', 'u'}
+ImmutableMultiDict([('phrase', 'linux'), ('letters', 'xyz')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0|{'x'}
+ImmutableMultiDict([('phrase', 'linuz'), ('letters', 'xyz')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0|{'z'}
+ImmutableMultiDict([('phrase', 'iziox'), ('letters', 'xyz')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0|{'x', 'z'}

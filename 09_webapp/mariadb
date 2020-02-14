@@ -1,0 +1,42 @@
+# таблица searchlogDB c user search
+
+root pass == same
+
+
+--> вход в БД под root
+mysql -u root -p 
+
+--> создаем ДБ для приложения
+MariaDB [(none)]> create database searchlogDB; 
+
+--> учетная запись для приложения (вместо root) с именем search и паролем 1234
+MariaDB [(none)]> grant all on searchlogDB.* to 'search' identified by '1234';
+
+--> выход (quit) и вход под пользователем search
+mysql -u search -p searchlogDB
+Enter password: 
+
+--> создаем структуру таблицы с нужными данными
+MariaDB [searchlogDB]> create table log(
+    -> id int auto_increment primary key,
+    -> ts timestamp default current_timestamp,
+    -> phrase varchar(128) not null,
+    -> letters varchar(32) not null,
+    -> ip varchar(16) not null,
+    -> browser_string varchar(256) not null,
+    -> result varchar(64) not null );
+
+--> проверяем таблицу
+MariaDB [searchlogDB]> describe log;
++----------------+--------------+------+-----+---------------------+----------------+
+| Field          | Type         | Null | Key | Default             | Extra          |
++----------------+--------------+------+-----+---------------------+----------------+
+| id             | int(11)      | NO   | PRI | NULL                | auto_increment |
+| ts             | timestamp    | NO   |     | current_timestamp() |                |
+| phrase         | varchar(128) | NO   |     | NULL                |                |
+| letters        | varchar(32)  | NO   |     | NULL                |                |
+| ip             | varchar(16)  | NO   |     | NULL                |                |
+| browser_string | varchar(256) | NO   |     | NULL                |                |
+| result         | varchar(64)  | NO   |     | NULL                |                |
++----------------+--------------+------+-----+---------------------+----------------+
+
