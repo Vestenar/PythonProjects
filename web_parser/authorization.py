@@ -8,14 +8,15 @@ headers = {
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
     "X-Requested-With": "XMLHttpRequest",
-    "Cookie": "PHPSESSID=sbe5jbr3nru2spccas0nkiute0; language=ru;"      # temporal cookie
+    "Cookie": "PHPSESSID=sbe5jbr3nru2spccas0nkiute; language=ru;"      # temporal cookie
 }
 
 data = {}
 url = 'http://teamfinding.com/mynews'
 url_log = 'http://teamfinding.com/account/login'
 
-#TODO вынести хэдеры с обновляемым куки в файл конфигурации, логин и пароль, минимальную длину текста
+# TODO вынести хэдеры с обновляемым куки в файл конфигурации, логин и пароль, минимальную длину текста
+
 
 def login():
     response = requests.get(url, headers=headers)
@@ -46,6 +47,4 @@ def send_message(send_to):
         print(f'ERROR: Try to send message to {send_to} manually', file=message_log)
     message_log.close()
 
-
     return response.status_code
-
